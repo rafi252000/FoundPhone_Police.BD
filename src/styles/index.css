@@ -1,0 +1,10 @@
+@import './base/reset.css';
+@import './base/variables.css';
+
+@import './components/Button.css';
+@import './components/Card.css';
+@import './components/Form.css';
+
+@import './pages/Login.css';
+@import './pages/AdminDashboard.css';
+@import './pages/UserPanel.css';

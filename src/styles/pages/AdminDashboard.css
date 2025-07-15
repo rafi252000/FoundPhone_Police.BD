@@ -1,0 +1,9 @@
+.admin-dashboard h2,
+.admin-dashboard h3 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
+}
+
+.admin-dashboard section {
+  margin-bottom: 30px;
+}

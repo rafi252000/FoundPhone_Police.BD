@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #002244;
+  --secondary-color: #004488;
+  --text-color: #222;
+  --bg-white: #ffffff;
+  --shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  --border-radius: 10px;
+  --padding: 20px;
+}

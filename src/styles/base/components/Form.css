@@ -1,0 +1,17 @@
+form.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: var(--bg-white);
+  box-shadow: var(--shadow);
+  padding: var(--padding);
+  border-radius: var(--border-radius);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+form.form input,
+form.form button {
+  padding: 10px;
+  font-size: 16px;
+}
